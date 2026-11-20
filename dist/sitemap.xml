@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://car.tellmyname.app/sitemap-main.xml</loc>
+    <lastmod>2026-11-20</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://car.tellmyname.app/sitemap-images.xml</loc>
+    <lastmod>2026-11-20</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://car.tellmyname.app/sitemap-names-1.xml</loc>
+    <lastmod>2026-11-20</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://car.tellmyname.app/sitemap-names-2.xml</loc>
+    <lastmod>2026-11-20</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://job.tellmyname.app/sitemap.xml</loc>
+    <lastmod>2026-11-20</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://myhome.tellmyname.app/sitemap.xml</loc>
+    <lastmod>2026-11-20</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://food.tellmyname.app/sitemap.xml</loc>
+    <lastmod>2026-11-20</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://photodiary.tellmyname.app/sitemap.xml</loc>
+    <lastmod>2026-11-20</lastmod>
+  </sitemap>
+</sitemapindex>

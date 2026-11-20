@@ -1,0 +1,77 @@
+# Robots.txt for https://car.tellmyname.app
+# Designed for Naver Yeti, Daumoa, Googlebot, Bingbot, YandexBot, Baiduspider, coccocbot-web, and global crawlers
+
+User-agent: *
+Allow: /
+
+User-agent: Yeti
+Allow: /
+
+User-agent: Daumoa
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Sogou web spider
+Allow: /
+
+User-agent: 360Spider
+Allow: /
+
+User-agent: YisouSpider
+Allow: /
+
+User-agent: PetalBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: coccocbot-web
+Allow: /
+
+User-agent: coccocbot-image
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Qwantify
+Allow: /
+
+User-agent: Mail.RU_Bot
+Allow: /
+
+User-agent: kakaotalk-scrap
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+# Sitemaps & Feeds (All 5 tellmyname.app Family Sitemaps)
+Sitemap: https://car.tellmyname.app/sitemap.xml
+Sitemap: https://car.tellmyname.app/sitemap-main.xml
+Sitemap: https://car.tellmyname.app/sitemap-images.xml
+Sitemap: https://car.tellmyname.app/sitemap-names-1.xml
+Sitemap: https://car.tellmyname.app/sitemap-names-2.xml
+Sitemap: https://job.tellmyname.app/sitemap.xml
+Sitemap: https://myhome.tellmyname.app/sitemap.xml
+Sitemap: https://food.tellmyname.app/sitemap.xml
+Sitemap: https://photodiary.tellmyname.app/sitemap.xml
+Sitemap: https://car.tellmyname.app/rss.xml
